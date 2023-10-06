@@ -5,3 +5,4 @@ techniques. The project will use a CNN model trained on a large dataset of color
 color channels of grayscale images and combine them to produce realistic colorized outputs.
 - Technology: Python, OpenCV,
 - Role: Computer Visions
+made by shivansh mishra
